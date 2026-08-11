@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 lib_pickle_dir/
 
+# Solder local state (session transcripts, server linkage)
+.solder/
+
 # KiCad generated outputs
 *.erc
 *.net

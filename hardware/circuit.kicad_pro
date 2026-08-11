@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "filename": "circuit.kicad_pro",
+    "version": 3
+  },
+  "schematic": {
+    "meta": {
+      "version": 1
+    },
+    "top_level_sheets": [
+      {
+        "uuid": "00000000-0000-0000-0000-000000000000",
+        "name": "circuit",
+        "filename": "circuit.kicad_sch"
+      }
+    ]
+  }
+}

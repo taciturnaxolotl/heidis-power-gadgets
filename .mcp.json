@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "solderable": {
+      "command": "npx",
+      "args": ["-y", "@solderable/mcp"]
+    }
+  }
+}
